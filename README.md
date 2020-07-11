@@ -1,16 +1,15 @@
-### Hi there 👋
+# Arthur Andrade
 
-<!--
-**arthurdiegoo/arthurdiegoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-Arthur%20Andrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-andrade-fullstack-dev/)](https://www.linkedin.com/in/arthur-andrade-fullstack-dev/)
+[![Codewars](https://www.codewars.com/users/arthurdiegoo/badges/micro)](https://www.codewars.com/users/arthurdiegoo/)
+[![DEV TO](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/arthurdiegoo)](https://dev.to/arthurdiegoo)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Senior Software Developer @ Azlo
+
+
+
+- 🔭 I’m currently working on CLI Construction, ServerLess Architecture, MicroService Construction and Real Time Communication Apps
+- 🌱 I’m currently learning more about Machine Learning, GoLang and DevOps
+
+- 💬 Ask me about anything written using JavaScript and Python
