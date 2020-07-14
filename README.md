@@ -22,8 +22,8 @@
 - JavaScript (TypeScript)
 - Python
 - GoLang
-
-## ❄️ My current Personal Projects:
+---
+## ❄️ Current Personal Projects:
 
 - CLI Tooling
 - Artificial Intelligence
