@@ -10,11 +10,24 @@
 - APIs (REST, SOAP, GraphQL)
 - JavaScript Frameworks (React, Angular, Vue)
 - Event Buses (RabbitMQ, Kafka, Redis)
+- Design Libraries (Bulma, Bootstrap, AntDesign, Material-UI, Kendo-UI)
+- SCSS, Less, SASS, Styled Components
+- Node.js Frameworks (Express, Loopback, Next.js, Adonis, Restify)
+- Python Frameworks (Django, TurboGears, Flask, Pyramid)
+- Cloud Computing (ServerLess, Amplify, AWS, Docker, Kubernetes)
+
+## ⚡ Languages:
+
+- JavaScript (TypeScript)
+- Python
+- GoLang
+
+## Currently Working on:
+
+- CLI Tooling
+- Artificial Intelligence
+- Serverless Solutions
+- Knowledge Sharing
 
 
-
-
-- 🔭 I’m currently working on CLI Construction, ServerLess Architecture, MicroService Construction and Real Time Communication Apps
-- 🌱 I’m currently learning more about Machine Learning, GoLang and DevOps
-
-- 💬 Ask me about anything written using JavaScript and Python
+`💬 Ask me about anything written using JavaScript and Python`
