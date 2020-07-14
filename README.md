@@ -5,7 +5,7 @@
 [![DEV TO](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/arthurdiegoo)](https://dev.to/arthurdiegoo)
 ### Senior Software Developer @ Azlo
 
-##  🌀 Techs:
+## 🌀 Techs:
 
 - APIs (REST, SOAP, GraphQL)
 - JavaScript Frameworks (React, Angular, Vue)
@@ -22,7 +22,7 @@
 - Python
 - GoLang
 
-## Currently Working on:
+## ❄️ My current Personal Projects:
 
 - CLI Tooling
 - Artificial Intelligence
