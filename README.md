@@ -6,7 +6,7 @@
 [![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.diegoo@hotmail.com)](mailto:arthur.diegoo@hotmail.com)
 [![Codewars](https://www.codewars.com/users/arthurdiegoo/badges/micro)](https://www.codewars.com/users/arthurdiegoo/)
 [![DEV TO](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/arthurdiegoo)](https://dev.to/arthurdiegoo)
-### Senior Software Developer @ Azlo
+### Senior Software Developer @ X-Team | BeachBody
 
 <img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
 
