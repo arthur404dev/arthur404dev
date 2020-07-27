@@ -10,22 +10,40 @@
 
 <img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
 
-## 🌀 Techs:
+## 🌀 A little more about me:
 
-- APIs (REST, SOAP, GraphQL)
-- JavaScript Frameworks (React, Angular, Vue)
-- Event Buses (RabbitMQ, Kafka, Redis)
-- Design Libraries (Bulma, Bootstrap, AntDesign, Material-UI, Kendo-UI)
-- SCSS, Less, SASS, Styled Components
-- Node.js Frameworks (Express, Loopback, Next.js, Adonis, Restify)
-- Python Frameworks (Django, TurboGears, Flask, Pyramid)
-- Cloud Computing (ServerLess, Amplify, AWS, Docker, Kubernetes)
+```typescript
+class Arthur extends Human {
+  name: string;
+  nationality: string;
+  
+  constructor() {
+    super();
+    this.name = "Arthur Andrade";
+    this.nationality = "Brazilian";
+  }
+  
+  languages: Array<string> = [
+    "Portuguese",
+    "English",
+    "Spanish",
+    "German",
+    "French",
+  ];
+  
+  technologies: {
+    JavaScript:     ["React.js", "Angular.js", "Vue"];
+    Python:         ["Django", "TurboGears", "Flask", "Pyramid"];
+    GoLang:         ["Martini", "GinGonic", "Gorilla", "Mango"];
+    APIs:           ["REST", "SOAP", "GraphQL"];
+    Events:         ["RabbitMQ", "Kafka", "Redis"];
+    Design:         ["Bulma", "Bootstrap", "AntDesign", "Material-UI", "Kendo-UI"];
+    CloudComputing: ["Serverless", "Amplify", "AWS", "Docker", "Kubernetes"];
+  };
+}
+```
 
-## ⚡ Languages:
 
-- JavaScript (TypeScript)
-- Python
-- GoLang
 ---
 ## ❄️ Current Personal Projects:
 
