@@ -29,15 +29,12 @@
 </a>
 &#8287;&#8287;
 <a href="https://github.com/arthur404dev?tab=repositories&sort=stargazers" target="_blank">
-<img alt="GitHub User's stars" src="
-https://img.shields.io/github/stars/arthur404dev?style=for-the-badge&logo=github&logoColor=%23b4befe&labelColor=%231e1e2e&color=%231e1e2e
-">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/arthur404dev?style=for-the-badge&logo=github&logoColor=%23b4befe&labelColor=%231e1e2e&color=%231e1e2e">
 </a>
 &#8287;&#8287;
 </a>
 <a href="https://github.com/arthur404dev?tab=followers" target="_blank">
-<img alt="GitHub User's stars" src="
-https://img.shields.io/github/followers/arthur404dev?style=for-the-badge&logo=github&logoColor=%23b4befe%09&labelColor=%231e1e2e%09&color=%231e1e2e%09"
+<img alt="GitHub User's stars" src="https://img.shields.io/github/followers/arthur404dev?style=for-the-badge&logo=github&logoColor=%23b4befe%09&labelColor=%231e1e2e%09&color=%231e1e2e%09"
 >
 </a>
 </p>
