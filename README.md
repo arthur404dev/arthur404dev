@@ -41,47 +41,10 @@
 <a href="https://www.youtube.com/watch?v=wyEYpX5U4Vg"><img src="https://ytcards.demolab.com/?id=wyEYpX5U4Vg&title=Desvendando+Go%3A+Aprenda+a+Construir+APIs+Poderosas+com+Gin%2C+Swagger%2C+GoORM+e+SQLite+%7C+Gopportunities&lang=en&timestamp=1679338809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=14342" alt="Desvendando Go: Aprenda a Construir APIs Poderosas com Gin, Swagger, GoORM e SQLite | Gopportunities" title="Desvendando Go: Aprenda a Construir APIs Poderosas com Gin, Swagger, GoORM e SQLite | Gopportunities"></a>
 <a href="https://www.youtube.com/watch?v=L6gk7FHBNkM"><img src="https://ytcards.demolab.com/?id=L6gk7FHBNkM&title=Projetinho%3A+Api+com+a+Linguagem+mais+bem+paga+do+mundo%21+%7C+Golang+%7C+Projeto+Completo&lang=en&timestamp=1679177813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=15962" alt="Projetinho: Api com a Linguagem mais bem paga do mundo! | Golang | Projeto Completo" title="Projetinho: Api com a Linguagem mais bem paga do mundo! | Golang | Projeto Completo"></a>
 <!-- END YOUTUBE-CARDS -->
+</details>
 
-## 🌀 a little more about me:
+<h3>⚡ Recent GitHub Activity</h3>
 
-```typescript
-class arthur extends human {
-  name: string
-  nationality: string
+<!--START_SECTION:activity-->
 
-  constructor() {
-    super()
-    this.name = "arthur andrade"
-    this.nationality = "brazilian"
-  }
-
-  languages: array<string> = [
-    "portuguese",
-    "english",
-    "spanish",
-    "german",
-    "french",
-  ]
-
-  technologies: {
-    javascript: ["react.js", "angular.js", "vue"]
-    python: ["django", "turbogears", "flask", "pyramid"]
-    golang: ["martini", "gingonic", "gorilla", "mango"]
-    apis: ["rest", "soap", "graphql"]
-    events: ["rabbitmq", "kafka", "redis"]
-    design: ["bulma", "bootstrap", "antdesign", "material-ui", "kendo-ui"]
-    cloudcomputing: ["serverless", "amplify", "aws", "docker", "kubernetes"]
-  }
-}
-```
-
----
-
-## ❄️ current personal projects:
-
-- cli tooling
-- artificial intelligence
-- serverless solutions
-- knowledge sharing
-
-`💬 ask me about anything written using javascript and python`
+<!--END_SECTION:activity-->
