@@ -31,6 +31,12 @@
 <a href="https://github.com/arthur404dev?tab=followers" target="_blank"><img alt="GitHub User's stars" src="https://img.shields.io/github/followers/arthur404dev?style=for-the-badge&logo=github&logoColor=%23b4befe%09&labelColor=%231e1e2e%09&color=%231e1e2e%09"/></a>
 </p>
 
+<details open> 
+<summary><h2>📺 Latest YouTube Videos</h2></summary>
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+</details>
+
 ## 🌀 a little more about me:
 
 ```typescript
