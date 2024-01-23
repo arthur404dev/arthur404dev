@@ -41,7 +41,6 @@
 [![Desvendando Go: Aprenda a Construir APIs Poderosas com Gin, Swagger, GoORM e SQLite | Gopportunities](https://ytcards.demolab.com/?id=wyEYpX5U4Vg&title=Desvendando+Go%3A+Aprenda+a+Construir+APIs+Poderosas+com+Gin%2C+Swagger%2C+GoORM+e+SQLite+%7C+Gopportunities&lang=en&timestamp=1679338809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Desvendando Go: Aprenda a Construir APIs Poderosas com Gin, Swagger, GoORM e SQLite | Gopportunities")](https://www.youtube.com/watch?v=wyEYpX5U4Vg)
 [![Projetinho: Api com a Linguagem mais bem paga do mundo! | Golang | Projeto Completo](https://ytcards.demolab.com/?id=L6gk7FHBNkM&title=Projetinho%3A+Api+com+a+Linguagem+mais+bem+paga+do+mundo%21+%7C+Golang+%7C+Projeto+Completo&lang=en&timestamp=1679177813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Projetinho: Api com a Linguagem mais bem paga do mundo! | Golang | Projeto Completo")](https://www.youtube.com/watch?v=L6gk7FHBNkM)
 <!-- END YOUTUBE-CARDS -->
-</details>
 
 ## 🌀 a little more about me:
 
