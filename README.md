@@ -24,17 +24,11 @@
 </p>
 <!-- Social Badges Section -->
 <p align="center">
-<a href="https://www.youtube.com/channel/UCVVQhvUOJ-CEOa28wiWsv2Q?sub_confirmation=1" target="_blank">
-<img alt="YouTube Channel Subscribe" src="https://img.shields.io/youtube/channel/views/UCVVQhvUOJ-CEOa28wiWsv2Q?style=for-the-badge&logo=youtube&logoColor=f38ba8&label=subscribe&labelColor=1e1e2e&color=1e1e2e"/>
-</a>
+<a href="https://www.youtube.com/channel/UCVVQhvUOJ-CEOa28wiWsv2Q?sub_confirmation=1" target="_blank"><img alt="YouTube Channel Subscribe" src="https://img.shields.io/youtube/channel/views/UCVVQhvUOJ-CEOa28wiWsv2Q?style=for-the-badge&logo=youtube&logoColor=f38ba8&label=subscribe&labelColor=1e1e2e&color=1e1e2e"/></a>
 &#8287;&#8287;&#8287;
-<a href="https://github.com/arthur404dev?tab=repositories&sort=stargazers" target="_blank">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/arthur404dev?style=for-the-badge&logo=github&logoColor=%23b4befe&labelColor=%231e1e2e&color=%231e1e2e"/>
-</a>
+<a href="https://github.com/arthur404dev?tab=repositories&sort=stargazers" target="_blank"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/arthur404dev?style=for-the-badge&logo=github&logoColor=%23b4befe&labelColor=%231e1e2e&color=%231e1e2e"/></a>
 &#8287;&#8287;&#8287;
-<a href="https://github.com/arthur404dev?tab=followers" target="_blank">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/followers/arthur404dev?style=for-the-badge&logo=github&logoColor=%23b4befe%09&labelColor=%231e1e2e%09&color=%231e1e2e%09"/>
-</a>
+<a href="https://github.com/arthur404dev?tab=followers" target="_blank"><img alt="GitHub User's stars" src="https://img.shields.io/github/followers/arthur404dev?style=for-the-badge&logo=github&logoColor=%23b4befe%09&labelColor=%231e1e2e%09&color=%231e1e2e%09"/></a>
 </p>
 
 ## 🌀 a little more about me:
