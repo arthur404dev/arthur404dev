@@ -46,5 +46,5 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/guandradeamm/aqualeve-website/pull/3) in [guandradeamm/aqualeve-website](https://github.com/guandradeamm/aqualeve-website)
+1. ❗️ Closed issue [#21](https://github.com/forjadev/mjo-forja-webpage/issues/21) in [forjadev/mjo-forja-webpage](https://github.com/forjadev/mjo-forja-webpage)
 <!--END_SECTION:activity-->
