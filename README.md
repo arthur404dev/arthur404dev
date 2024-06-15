@@ -46,5 +46,5 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/forjadev/mjo-forja-webpage/issues/21) in [forjadev/mjo-forja-webpage](https://github.com/forjadev/mjo-forja-webpage)
+1. 🎉 Merged PR [#5](https://github.com/forjadev/core-web/pull/5) in [forjadev/core-web](https://github.com/forjadev/core-web)
 <!--END_SECTION:activity-->
