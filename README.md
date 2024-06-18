@@ -46,5 +46,5 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/forjadev/core-web/pull/5) in [forjadev/core-web](https://github.com/forjadev/core-web)
+1. 🎉 Merged PR [#6](https://github.com/forjadev/core-web/pull/6) in [forjadev/core-web](https://github.com/forjadev/core-web)
 <!--END_SECTION:activity-->
