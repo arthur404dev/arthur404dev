@@ -46,5 +46,5 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/forjadev/core-web/pull/6) in [forjadev/core-web](https://github.com/forjadev/core-web)
+1. 🗣 Commented on [#283](https://github.com/glzr-io/glazewm/issues/283) in [glzr-io/glazewm](https://github.com/glzr-io/glazewm)
 <!--END_SECTION:activity-->
